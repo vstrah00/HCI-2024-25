@@ -18,7 +18,7 @@
 
 ### Semester Project
 
-- Link to your production version: [**Production Version**](URL_TO_PRODUCTION_VERSION) <!-- Replace with actual URL -->
+- Link to your production version: [**Production Version**](https://bar-site-v1.vercel.app/) <!-- Replace with actual URL -->
 - Link to your final report: [**Final Report**](URL_TO_FINAL_REPORT) <!-- Replace with actual URL -->
 <!-- Add more as necessary -->
 
@@ -28,6 +28,7 @@
 - Link to Assignment 2: [**Assignment 2**](https://github.com/vstrah00/HCI-2024-25/blob/main/assignments/assignment2-sitemap.docx) <!-- Replace with actual URL -->, [**Assignment 2 Google Drive link**](https://docs.google.com/document/d/18pAIGRBXkRz1NfC0Og7_Wnsk-Gq_DZwf/edit?usp=sharing&ouid=114074338266514380882&rtpof=true&sd=true)
 - Link to Assignment 3: [**Assignment 3**](https://bar-site-v1.vercel.app/) <!-- Replace with actual URL -->
 - Link to Assignment 4: [**Assignment 4**](https://github.com/vstrah00/HCI-2024-25/blob/main/assignments/assignment4-figma-low-fid.pdf) <!-- Replace with actual URL -->
+- Link to Assignment 3: [**Assignment 5**](https://bar-site-v1.vercel.app/) <!-- Replace with actual URL -->
 <!-- Add more assignments as necessary -->
 
 ## Project Requirements
