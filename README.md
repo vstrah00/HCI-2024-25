@@ -18,7 +18,7 @@
 
 ### Semester Project
 
-- Link to your production version: [**Production Version**](https://bar-site-v1.vercel.app/) <!-- Replace with actual URL -->
+- Link to your production version: [**Production Version**](https://lloyd-bar-web.vercel.app/) - Started form scratch on holidays, implemented headless CMS(Sanity), mobile responsiveness, added search, dynamic blog posts, items... So far the focus was on functionality over beauty.
 - Link to your final report: [**Final Report**](URL_TO_FINAL_REPORT) <!-- Replace with actual URL -->
 <!-- Add more as necessary -->
 
@@ -29,18 +29,19 @@
 - Link to Assignment 3: [**Assignment 3**](https://bar-site-v1.vercel.app/) <!-- Replace with actual URL -->
 - Link to Assignment 4: [**Assignment 4**](https://github.com/vstrah00/HCI-2024-25/blob/main/assignments/assignment4-figma-low-fid.pdf) <!-- Replace with actual URL -->
 - Link to Assignment 5: [**Assignment 5**](https://bar-site-v1.vercel.app/) <!-- Replace with actual URL -->
+- Link to Assignment 6: [**Vercel Deployment**](https://lloyd-bar-web.vercel.app/), [**Github Repo**](https://github.com/vstrah00/lloyd-bar-web), [**Figma High-Fidelity PDF**](https://github.com/vstrah00/HCI-2024-25/blob/main/assignments/HCI-figma-highF.pdf)
 <!-- Add more assignments as necessary -->
 
 ## Project Requirements
 
 ### Web Application Requirements
 
-- [ ] The application will be used from a web browser
-- [ ] It will be accessible on devices of different sizes
-- [ ] Users can search/filter products or services
+- [x] The application will be used from a web browser
+- [x] It will be accessible on devices of different sizes
+- [x] Users can search/filter products or services
 - [ ] The application will support user login for showing private content
 - [ ] One of the public pages will be a blog containing multiple posts with diverse content (images, videos, code snippets)
-- [ ] Part of the application's content will be stored in a remote headless CMS system
+- [x] Part of the application's content will be stored in a remote headless CMS system
 
 ### Project Demonstration
 
