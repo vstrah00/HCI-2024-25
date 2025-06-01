@@ -18,8 +18,8 @@
 
 ### Semester Project
 
-- Link to your production version: [**Production Version**](https://lloyd-bar-web.vercel.app/) - Started form scratch on holidays, implemented headless CMS(Sanity), mobile responsiveness, added search, dynamic blog posts, items... So far the focus was on functionality over beauty.
-- Link to your final report: [**Final Report**](URL_TO_FINAL_REPORT) <!-- Replace with actual URL -->
+- Link to your production version: [**Production Version**](https://lloyd.hr/) - Started form scratch on holidays, implemented headless CMS(Sanity), mobile responsiveness, added search, dynamic blog posts, items... Changed to an official domain of the bar, made it usable.
+- Link to your final report: [**Final Report**](https://lloyd.hr/) <!-- Replace with actual URL -->
 <!-- Add more as necessary -->
 
 ### Semester Assignments
@@ -39,8 +39,8 @@
 - [x] The application will be used from a web browser
 - [x] It will be accessible on devices of different sizes
 - [x] Users can search/filter products or services
-- [ ] The application will support user login for showing private content
-- [ ] One of the public pages will be a blog containing multiple posts with diverse content (images, videos, code snippets)
+- [x] The application will support user login for showing private content
+- [x] One of the public pages will be a blog containing multiple posts with diverse content (images, videos, code snippets)
 - [x] Part of the application's content will be stored in a remote headless CMS system
 
 ### Project Demonstration
