@@ -46,6 +46,7 @@
 ### Project Demonstration
 
 - [ ] Show the production version of the project
+- [ ] Project overview - ([OVERVIEW](https://github.com/vstrah00/HCI-2024-25/blob/main/assignments/ProjectOverview.md)
 - [ ] The production version will be deployed online on an appropriate cloud platform ([Vercel](https://vercel.com), [Netlify](https://www.netlify.com/) or a similar service)
 - [ ] Analyze the application's performance ([PageSpeed Insights](https://pagespeed.web.dev/))
 - [ ] The analysis results will be part of the final report
