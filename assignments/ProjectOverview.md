@@ -30,17 +30,17 @@ The website was made to reflect the actual vibe of the bar: chill, vibrant, and 
 
 To guide the design, I created 3 key **user personas**, based on typical visitor demographics:
 
-### 🧑‍🎓 Alex – The Social Student (Age 22)
+### Alex – The Social Student (Age 22)
 - Wants discounts, games, and fun UI
 - Tech-savvy, visits with friends
 - Motivated by interactive features and shareable offers
 
-### 👩 Mia – The Curious Weekender (Age 43)
+### Mia – The Curious Weekender (Age 43)
 - Looking for info on drinks, ambiance, and events
 - Likes simple games for small rewards
 - Needs clear navigation and visuals
 
-### 👴 Robert – The Relaxed Senior (Age 68)
+### Robert – The Relaxed Senior (Age 68)
 - Focused on simplicity and readability
 - Not interested in games, just clear pricing and seating info
 - Needs large text, minimal interactions
@@ -58,10 +58,10 @@ Instead of using a starter template, I began the build **from scratch over the h
 - Mobile-first design principles
 
 ### Key Milestones  
-- 🧭 Created sitemap based on card sorting & user journeys  
-- 🛠️ Built reusable components in **Next.js**  
-- 🌍 Integrated internationalization (EN/HR)  
-- 🍹 Designed a flexible Sanity schema for product management  
+- Created sitemap based on card sorting & user journeys  
+- Built reusable components in **Next.js**  
+- Integrated internationalization (EN/HR)  
+- Designed a flexible Sanity schema for product management  
 
 All content, menus, and posts are editable via **Sanity CMS**, allowing staff to manage updates without touching the code.
 
@@ -69,14 +69,14 @@ All content, menus, and posts are editable via **Sanity CMS**, allowing staff to
 
 ## 4. Features & Technologies
 
-### ✨ Core Features
+### Core Features
 - Interactive drinks menu
 - Blog with dynamic posts
 - Events & gallery sections
 - Language toggle (EN/CRO)
 - Login system (for private content)
 
-### 🔧 Technologies Used
+### Technologies Used
 - **Next.js 15** (App Router)
 - **Tailwind CSS** for styling
 - **Sanity.io** for CMS & live data editing
@@ -114,7 +114,7 @@ To support intuitive and accessible user experience, the interface was designed 
 
 The site is hosted on **Netlify**, with the official domain [lloyd.hr](https://lloyd.hr), provided through **CARNET** (for verified Croatian businesses).
 
-### ✅ Deployment details:
+### Deployment details:
 - Production URL: [https://lloyd.hr](https://lloyd.hr)
 - CMS studio is connected to Sanity for real-time content editing
 - Uses ISR/SSG for fast loading
